@@ -1,9 +1,6 @@
-# NCBREEK-Final-Sports
-
-## web design trends
-- a
-  b
-  Coaches
-  Football
-  Roster
-  Fan Tickets
+# NCBREEK-Final- Football
+## Team Design 
+### Roster
+#### Coaches , ROSTER
+##### STats 
+###### TIckets 
